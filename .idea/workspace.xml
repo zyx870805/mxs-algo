@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d33f6a4-9880-459d-a73e-116c0b99a44e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xm/tree/MinHeap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
